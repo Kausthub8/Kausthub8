@@ -10,7 +10,7 @@ Back in the day at Jawaharlal Nehru Technological University, I delved into the 
 ---
 
 ## 🎓 Chapter 2: The Georgia State Chronicles
-Fast forward to today—where I'm on a quest for knowledge at Georgia State University, pursuing a Master's in Computer Science. With a stellar GPA of 3.9/4.0, I'm navigating through the realms of Data Science, Big Data Programming, NLP, and more. As a Research Assistant at the Evidence Based Cybersecurity Lab [EBCS], I'm not just studying; I'm actively contributing to the magic!
+Fast forward to today where I'm on a quest for knowledge at Georgia State University, pursuing a Master's in Computer Science. With a stellar GPA of 3.9/4.0, I'm navigating through the realms of Data Science, Big Data Programming, NLP, and more. As a Research Assistant at the Evidence Based Cybersecurity Lab [EBCS], I'm not just studying; I'm actively contributing to the magic!
 
 ---
 
@@ -50,7 +50,7 @@ As I continue my journey, I'm on the lookout for exciting roles as a Data Scient
 
 ---
 
-## Contact me @
+## For Future Opportunities/ Collaborations , Contact me @
 
 **E-mail:** kausthub1369@gmail.com
 
